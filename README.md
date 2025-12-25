@@ -4,3 +4,7 @@ Das Projekt hat mir gut gefallen, Problem war nur das ich ja weg von Home Matic 
 Mit etwas suchen und Überlegen bin ich bei diesem Modul gelandet Cansec ZB2530SA-A Ti CC2530,
 gefunden auf Alibaba.
 Programmiert habe ich es mit PTVO was auch den Externen Converter Liefert um es im ZigBee einzubinden.
+
+Im Neuesten:
+Optimierungen.
+Unterstützung für 2 Farbige  LED Hinzugefügt.
